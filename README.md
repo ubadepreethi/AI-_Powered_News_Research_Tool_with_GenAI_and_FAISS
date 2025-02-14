@@ -49,8 +49,6 @@ For testing, the following articles were processed:
 🚀 Improve AI summarization for better article insights.
 🚀 Expand the dataset to support **more news sources**.
 
-## 🙌 Special Thanks
-A special thanks to **Omkar Sir** for guidance and support throughout this project! 🙏
 
 ## 📢 Connect
 If you found this project useful, feel free to **like, share, and contribute**! 💡
