@@ -41,7 +41,7 @@ For testing, the following articles were processed:
 ├── 📜 main.py                 # Main Streamlit application
 ├── 📜 requirements.txt        # Python dependencies
 ├── 📜 .env                    # API Key configuration
-├── 📜 faiss_store_google.pkl  # FAISS index storage
+
 ```
 
 ## 🎯 Future Enhancements
