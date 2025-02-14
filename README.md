@@ -20,9 +20,9 @@ This project is an **AI-powered news research tool** that allows users to extrac
 
 ## 🎯 Usage
 1. Run the **Streamlit** application:
-   
+   ```sh
    streamlit run main.py
-   
+   ```
 2. The web app will open in your browser.
 3. Enter **news URLs** in the sidebar.
 4. Click **"Process URLs"** to extract and store key insights.
@@ -36,13 +36,13 @@ For testing, the following articles were processed:
 - [Buy Tata Motors, target of Rs 743: KR Choksey](https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html)
 
 ## 📁 Project Structure
-
+```
 📂 news-research-tool
 ├── 📜 main.py                 # Main Streamlit application
 ├── 📜 requirements.txt        # Python dependencies
 ├── 📜 .env                    # API Key configuration
 ├── 📜 faiss_store_google.pkl  # FAISS index storage
-
+```
 
 ## 🎯 Future Enhancements
 🚀 Add multi-language support for international news processing.
@@ -54,5 +54,4 @@ A special thanks to **Omkar Sir** for guidance and support throughout this proje
 
 ## 📢 Connect
 If you found this project useful, feel free to **like, share, and contribute**! 💡
-
 
